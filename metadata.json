@@ -1,0 +1,5 @@
+{
+  "name": "AI 算法大师",
+  "description": "一个交互式的可视化学习平台，帮助您从零开始掌握机器学习算法，涵盖经典监督学习到深度学习（Transformer, BERT）。具备实时 AI 生成解释、分步可视化动画以及内置 AI 导师功能。",
+  "requestFramePermissions": []
+}
